@@ -20,7 +20,7 @@
 
 - [ ] config
 
-- [ ] architectures
+- [ ] architecture
 
 - [ ] freeway
 
