@@ -25,3 +25,5 @@
 - [ ] freeway
 
 - [ ] kitty
+
+- [ ] rust
