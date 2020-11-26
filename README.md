@@ -1,4 +1,4 @@
-# readme
+# read me
 
 - [ ] mylib
 
@@ -12,11 +12,11 @@
 
 - [ ] database
 
-- [ ] java-lib
+- [ ] [java-lib](https://github.com/liangkuai/java-lib)
 
 - [ ] pakchoi
 
-- [ ] redis
+- [ ] [redis](https://github.com/liangkuai/redis)
 
 - [ ] mq
 
