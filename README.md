@@ -1,6 +1,6 @@
 # read me
 
-- [ ] mylib
+- [ ] [mylib](https://github.com/liangkuai/mylib)
 
 - [ ] assemble
 
