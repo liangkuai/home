@@ -12,6 +12,8 @@
 
 - [ ] database
 
+- [ ] [skeleton](https://github.com/liangkuai/skeleton)
+
 - [ ] [java-lib](https://github.com/liangkuai/java-lib)
 
 - [ ] pakchoi
