@@ -12,7 +12,7 @@
 
 - [ ] database
 
-- [ ] [skeleton](https://github.com/liangkuai/skeleton)
+- [x] [build-tools](https://github.com/liangkuai/build-tools)
 
 - [ ] [java-lib](https://github.com/liangkuai/java-lib)
 
