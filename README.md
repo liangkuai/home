@@ -10,7 +10,7 @@
 
 - [ ] network
 
-- [ ] [database](https://github.com/liangkuai/databases)
+- [ ] [database](https://github.com/liangkuai/database)
 
 - [x] [build-tools](https://github.com/liangkuai/build-tools)
 
