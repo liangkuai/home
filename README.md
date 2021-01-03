@@ -7,7 +7,6 @@
 - [ ] kiss
 
 - [ ] os
-    - [ ] linux
 
 - [ ] network
 
