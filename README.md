@@ -1,4 +1,6 @@
-# read me
+# Read me
+
+- [Coding standard](./code-standard.md)
 
 - [ ] [mylib](https://github.com/liangkuai/mylib)
 
